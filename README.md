@@ -11,4 +11,4 @@ Welcome to my GitHub! I'm an Open Source contributor and a big fan of building s
 
 ### 🌐 Connect with me
 
-💼 LinkedIn: linkedin.com/in/bnallapeta
+💼 LinkedIn: www.linkedin.com/in/bharathnallapeta
