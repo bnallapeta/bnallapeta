@@ -12,3 +12,10 @@ Welcome to my GitHub! I'm an Open Source contributor and a big fan of building s
 ### 🌐 Connect with me
 
 💼 LinkedIn: www.linkedin.com/in/bharathnallapeta
+
+### 📊 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnallapeta&layout=donut)](https://github.com/bnallapeta/github-readme-stats)
+
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bnallapeta)](https://github.com/anuraghazra/github-readme-stats)
