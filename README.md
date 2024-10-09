@@ -17,6 +17,10 @@ Welcome to my GitHub! I'm an Open Source contributor and a big fan of building s
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnallapeta&layout=donut)](https://github.com/bnallapeta/github-readme-stats)
 
+### 📊 Wakatime Stats
+
+#### *Coding Activity by time*
+
 <a href="https://wakatime.com" target="_blank">
   <img 
     src="https://wakatime.com/share/@bnallapeta/03a931b7-3102-4738-98b3-d2553c1958f5.png" 
