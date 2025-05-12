@@ -17,6 +17,7 @@ Welcome to my GitHub! I'm an Open Source contributor and a big fan of building s
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnallapeta&layout=donut)](https://github.com/bnallapeta/github-readme-stats)
 
+<!-- 
 ### 📊 Wakatime Stats
 
 #### *Coding Activity by time*
@@ -31,3 +32,4 @@ Welcome to my GitHub! I'm an Open Source contributor and a big fan of building s
   />
 </a>
 
+-->
